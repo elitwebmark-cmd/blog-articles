@@ -1,0 +1,8 @@
+{
+  "name": "elitweb-blog-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elit-Web · Блог · квартальний звіт",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
